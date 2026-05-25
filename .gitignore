@@ -1,0 +1,26 @@
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 配置文件（含API密钥，不上传）
+config.yaml
+
+# 调试截图
+debug_*.png
+
+# 调试日志
+debug.log
+
+# 测试脚本
+test_*.py
+check_window.py
+debug_window.py
+window_info.py
+
+# IDE
+.vscode/
+.idea/
